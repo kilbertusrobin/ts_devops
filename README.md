@@ -17,8 +17,8 @@ Un serveur API simple qui retourne les headers de la requête en format JSON lor
 
 1. Clonez ce dépôt
 ```bash
-git clone https://github.com/yourusername/ping-api.git
-cd ping-api
+git clone https://github.com/kilbertusrobin/ts_devops.git
+cd ts_devops
 ```
 
 2. Installez les dépendances
